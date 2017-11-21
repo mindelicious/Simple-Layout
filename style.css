@@ -40,6 +40,10 @@ header > nav > .col-12 > img {
   padding: 10px 0;
   float: left; }
 
+  .client-logo {
+    margin-top: 10px;
+  }
+
 li {
   display: inline-block; }
 
@@ -126,7 +130,9 @@ section > .container {
   width: 100%;
   height: 100%;
   position: relative;
-  overflow: hidden; }
+  overflow: hidden; 
+  
+}
 
 .layer .fa {
   font-size: 20px;
